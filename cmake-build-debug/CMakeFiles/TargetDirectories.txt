@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Joseph McFarland/CLionProjects/A6_CS368/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Joseph McFarland/CLionProjects/A6_CS368/cmake-build-debug/CMakeFiles/A6_CS368.dir
+/cygdrive/c/Users/Joseph McFarland/CLionProjects/A6_CS368/cmake-build-debug/CMakeFiles/edit_cache.dir
